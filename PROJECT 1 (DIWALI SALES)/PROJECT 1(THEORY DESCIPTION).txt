@@ -1,0 +1,7 @@
+A data analysis project done on a random Diwali Sales Data present on the internet.
+This project covers performing EDA, Feature Engineering on the data set as well as visualization of the features, attributes and the data stored under them.
+I have used PYTHON and JUPYTER for this task.
+Uses of python's inbuilt data types like dictionary, list, etc is also involved in this project.
+It covers the comparison among customers, product category, no. of orders, amount spent, customer's age group and many more.
+Every comparison is divided into segments along with a markdown at the end which states the final outcome of the comparison 
+ 
